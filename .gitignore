@@ -1,0 +1,12 @@
+*.DS_Store
+__pycache__/
+wandb
+*.env
+*.csv
+asset
+*.npy
+*.pt
+*.pkl
+data
+*pyc
+*.ckpt

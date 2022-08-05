@@ -1,1 +1,0 @@
-# ssl-bitcoin-fds-research
